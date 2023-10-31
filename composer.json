@@ -1,6 +1,6 @@
 {
   "name": "mivanisten/szamla-agent",
-  "license": "inherited",
+  "license": "Unlicense",
   "autoload": {
     "psr-4": {
       "SzamlaAgent\\": "src/SzamlaAgent/"

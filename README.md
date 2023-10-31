@@ -6,3 +6,8 @@ No changes made to code, only letter case fixed in folder names.
 
 I'm not connected to the developers nor actively watching new API releases.\
 I'll update this repo as soon I need to upgrade the API in my projects, or got a request via Issue.
+
+##Installation
+```shell
+composer install mivanisten/szamla-agent
+```

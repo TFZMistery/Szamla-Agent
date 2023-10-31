@@ -1,4 +1,5 @@
 {
+  "name": "mivanisten/szamla-agent",
   "license": "inherited",
   "autoload": {
     "psr-4": {

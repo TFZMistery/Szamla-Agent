@@ -1,0 +1,20 @@
+{
+  "license": "inherited",
+  "autoload": {
+    "psr-4": {
+      "SzamlaAgent\\": "src/SzamlaAgent/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "require": {
+    "php": ">=5.6",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-json": "*",
+    "ext-libxml": "*",
+    "ext-simplexml": "*"
+  }
+}

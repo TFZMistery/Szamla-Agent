@@ -9,5 +9,5 @@ I'll update this repo as soon I need to upgrade the API in my projects, or got a
 
 ##Installation
 ```shell
-composer install mivanisten/szamla-agent
+composer require mivanisten/szamla-agent
 ```

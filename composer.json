@@ -1,5 +1,5 @@
 {
-  "name": "mivanisten/szamla-agent",
+  "name": "tfzmistery/szamla-agent",
   "license": "Unlicense",
   "autoload": {
     "psr-4": {
